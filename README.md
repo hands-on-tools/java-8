@@ -1,2 +1,3 @@
-# java-8
-Hands-on to discover new features in java 8
+# README #
+
+Short project permitting to learn about java 8.
